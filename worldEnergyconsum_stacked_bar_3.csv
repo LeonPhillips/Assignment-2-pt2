@@ -1,0 +1,1051 @@
+country,year,percentage,type
+Africa,1985,53.869,coal
+Africa,1986,52.6,coal
+Africa,1987,54.317,coal
+Africa,1988,51.626,coal
+Africa,1989,51.267,coal
+Africa,1990,51.635,coal
+Africa,1991,50.704,coal
+Africa,1992,50.43,coal
+Africa,1993,51.875,coal
+Africa,1994,51.156,coal
+Africa,1995,51.523,coal
+Africa,1996,51.622,coal
+Africa,1997,51.395,coal
+Africa,1998,49.642,coal
+Africa,1999,47.752,coal
+Africa,2000,47.484,coal
+Africa,2001,46.984,coal
+Africa,2002,46.049,coal
+Africa,2003,46.519,coal
+Africa,2004,45.744,coal
+Africa,2005,44.766,coal
+Africa,2006,44.01,coal
+Africa,2007,43.347,coal
+Africa,2008,41.562,coal
+Africa,2009,39.502,coal
+Africa,2010,38.318,coal
+Africa,2011,37.727,coal
+Africa,2012,35.456,coal
+Africa,2013,33.808,coal
+Africa,2014,32.823,coal
+Africa,2015,31.349,coal
+Africa,2016,31.128,coal
+Africa,2017,30.156,coal
+Africa,2018,30.335,coal
+Africa,2019,29.141,coal
+Africa,1985,10.783,gas
+Africa,1986,10.495,gas
+Africa,1987,11.27,gas
+Africa,1988,11.517,gas
+Africa,1989,12.046,gas
+Africa,1990,13.372,gas
+Africa,1991,14.034,gas
+Africa,1992,15.409,gas
+Africa,1993,16.254,gas
+Africa,1994,17.669,gas
+Africa,1995,18.282,gas
+Africa,1996,18.313,gas
+Africa,1997,18.918,gas
+Africa,1998,19.032,gas
+Africa,1999,20.576,gas
+Africa,2000,20.945,gas
+Africa,2001,22.125,gas
+Africa,2002,23.955,gas
+Africa,2003,24.54,gas
+Africa,2004,25.774,gas
+Africa,2005,27.482,gas
+Africa,2006,28.276,gas
+Africa,2007,28.871,gas
+Africa,2008,29.78,gas
+Africa,2009,30.703,gas
+Africa,2010,32.504,gas
+Africa,2011,34.206,gas
+Africa,2012,36.251,gas
+Africa,2013,36.113,gas
+Africa,2014,36.112,gas
+Africa,2015,37.172,gas
+Africa,2016,38.244,gas
+Africa,2017,39.472,gas
+Africa,2018,39.171,gas
+Africa,2019,39.13,gas
+Africa,1985,2.052,nuclear
+Africa,1986,3.259,nuclear
+Africa,1987,2.2,nuclear
+Africa,1988,3.553,nuclear
+Africa,1989,3.619,nuclear
+Africa,1990,2.649,nuclear
+Africa,1991,2.814,nuclear
+Africa,1992,2.832,nuclear
+Africa,1993,2.139,nuclear
+Africa,1994,2.759,nuclear
+Africa,1995,3.116,nuclear
+Africa,1996,3.081,nuclear
+Africa,1997,3.155,nuclear
+Africa,1998,3.347,nuclear
+Africa,1999,3.068,nuclear
+Africa,2000,2.967,nuclear
+Africa,2001,2.349,nuclear
+Africa,2002,2.477,nuclear
+Africa,2003,2.507,nuclear
+Africa,2004,2.493,nuclear
+Africa,2005,2.032,nuclear
+Africa,2006,1.724,nuclear
+Africa,2007,1.869,nuclear
+Africa,2008,2.099,nuclear
+Africa,2009,2.042,nuclear
+Africa,2010,2.014,nuclear
+Africa,2011,1.872,nuclear
+Africa,2012,1.799,nuclear
+Africa,2013,1.897,nuclear
+Africa,2014,1.798,nuclear
+Africa,2015,1.554,nuclear
+Africa,2016,1.983,nuclear
+Africa,2017,1.903,nuclear
+Africa,2018,1.311,nuclear
+Africa,2019,1.634,nuclear
+Africa,1985,13.242,oil
+Africa,1986,13.766,oil
+Africa,1987,13.803,oil
+Africa,1988,14.431,oil
+Africa,1989,14.133,oil
+Africa,1990,13.522,oil
+Africa,1991,12.986,oil
+Africa,1992,13.03,oil
+Africa,1993,12.354,oil
+Africa,1994,11.361,oil
+Africa,1995,9.966,oil
+Africa,1996,9.766,oil
+Africa,1997,9.606,oil
+Africa,1998,10.553,oil
+Africa,1999,10.68,oil
+Africa,2000,10.55,oil
+Africa,2001,10.329,oil
+Africa,2002,9.588,oil
+Africa,2003,9.476,oil
+Africa,2004,9.092,oil
+Africa,2005,9.135,oil
+Africa,2006,9.407,oil
+Africa,2007,9.61,oil
+Africa,2008,10.132,oil
+Africa,2009,10.798,oil
+Africa,2010,9.734,oil
+Africa,2011,8.394,oil
+Africa,2012,9.568,oil
+Africa,2013,10.711,oil
+Africa,2014,11.035,oil
+Africa,2015,11.788,oil
+Africa,2016,10.862,oil
+Africa,2017,9.662,oil
+Africa,2018,9.378,oil
+Africa,2019,9.341,oil
+Africa,1985,19.197,renewables
+Africa,1986,19.179,renewables
+Africa,1987,17.739,renewables
+Africa,1988,18.361,renewables
+Africa,1989,18.553,renewables
+Africa,1990,18.193,renewables
+Africa,1991,18.905,renewables
+Africa,1992,17.891,renewables
+Africa,1993,16.981,renewables
+Africa,1994,16.622,renewables
+Africa,1995,16.761,renewables
+Africa,1996,16.637,renewables
+Africa,1997,16.275,renewables
+Africa,1998,16.829,renewables
+Africa,1999,17.304,renewables
+Africa,2000,17.721,renewables
+Africa,2001,18.325,renewables
+Africa,2002,18.166,renewables
+Africa,2003,17.035,renewables
+Africa,2004,17.012,renewables
+Africa,2005,16.713,renewables
+Africa,2006,16.667,renewables
+Africa,2007,16.442,renewables
+Africa,2008,16.434,renewables
+Africa,2009,16.746,renewables
+Africa,2010,16.938,renewables
+Africa,2011,17.033,renewables
+Africa,2012,16.451,renewables
+Africa,2013,17.015,renewables
+Africa,2014,17.758,renewables
+Africa,2015,17.714,renewables
+Africa,2016,17.353,renewables
+Africa,2017,18.214,renewables
+Africa,2018,19.223,renewables
+Africa,2019,20.435,renewables
+Asia Pacific,1985,37.765,coal
+Asia Pacific,1986,39.374,coal
+Asia Pacific,1987,40.697,coal
+Asia Pacific,1988,40.993,coal
+Asia Pacific,1989,41.324,coal
+Asia Pacific,1990,40.739,coal
+Asia Pacific,1991,42.092,coal
+Asia Pacific,1992,43.888,coal
+Asia Pacific,1993,44.266,coal
+Asia Pacific,1994,45.298,coal
+Asia Pacific,1995,45.625,coal
+Asia Pacific,1996,47.211,coal
+Asia Pacific,1997,47.577,coal
+Asia Pacific,1998,47.956,coal
+Asia Pacific,1999,49.365,coal
+Asia Pacific,2000,50.739,coal
+Asia Pacific,2001,51.557,coal
+Asia Pacific,2002,52.673,coal
+Asia Pacific,2003,55.248,coal
+Asia Pacific,2004,55.121,coal
+Asia Pacific,2005,56.854,coal
+Asia Pacific,2006,58.257,coal
+Asia Pacific,2007,59.708,coal
+Asia Pacific,2008,58.993,coal
+Asia Pacific,2009,60.396,coal
+Asia Pacific,2010,59.723,coal
+Asia Pacific,2011,61.334,coal
+Asia Pacific,2012,61.004,coal
+Asia Pacific,2013,62.004,coal
+Asia Pacific,2014,61.325,coal
+Asia Pacific,2015,60.097,coal
+Asia Pacific,2016,59.251,coal
+Asia Pacific,2017,59.249,coal
+Asia Pacific,2018,59.192,coal
+Asia Pacific,2019,58.125,coal
+Asia Pacific,1985,10.36,gas
+Asia Pacific,1986,10.355,gas
+Asia Pacific,1987,10.724,gas
+Asia Pacific,1988,10.681,gas
+Asia Pacific,1989,10.559,gas
+Asia Pacific,1990,10.96,gas
+Asia Pacific,1991,11.146,gas
+Asia Pacific,1992,11.292,gas
+Asia Pacific,1993,11.191,gas
+Asia Pacific,1994,11.494,gas
+Asia Pacific,1995,11.99,gas
+Asia Pacific,1996,12.414,gas
+Asia Pacific,1997,13.594,gas
+Asia Pacific,1998,13.844,gas
+Asia Pacific,1999,14.289,gas
+Asia Pacific,2000,13.993,gas
+Asia Pacific,2001,14.272,gas
+Asia Pacific,2002,14.499,gas
+Asia Pacific,2003,14.83,gas
+Asia Pacific,2004,14.378,gas
+Asia Pacific,2005,13.729,gas
+Asia Pacific,2006,13.641,gas
+Asia Pacific,2007,13.611,gas
+Asia Pacific,2008,13.776,gas
+Asia Pacific,2009,13.869,gas
+Asia Pacific,2010,14.097,gas
+Asia Pacific,2011,13.978,gas
+Asia Pacific,2012,14.219,gas
+Asia Pacific,2013,13.291,gas
+Asia Pacific,2014,13.212,gas
+Asia Pacific,2015,13.19,gas
+Asia Pacific,2016,12.83,gas
+Asia Pacific,2017,12.464,gas
+Asia Pacific,2018,12.004,gas
+Asia Pacific,2019,11.683,gas
+Asia Pacific,1985,12.184,nuclear
+Asia Pacific,1986,12.461,nuclear
+Asia Pacific,1987,13.532,nuclear
+Asia Pacific,1988,11.823,nuclear
+Asia Pacific,1989,11.61,nuclear
+Asia Pacific,1990,11.63,nuclear
+Asia Pacific,1991,11.616,nuclear
+Asia Pacific,1992,11.309,nuclear
+Asia Pacific,1993,11.94,nuclear
+Asia Pacific,1994,11.716,nuclear
+Asia Pacific,1995,12.081,nuclear
+Asia Pacific,1996,12.076,nuclear
+Asia Pacific,1997,12.277,nuclear
+Asia Pacific,1998,12.428,nuclear
+Asia Pacific,1999,12.044,nuclear
+Asia Pacific,2000,11.668,nuclear
+Asia Pacific,2001,11.313,nuclear
+Asia Pacific,2002,10.904,nuclear
+Asia Pacific,2003,9.062,nuclear
+Asia Pacific,2004,9.523,nuclear
+Asia Pacific,2005,9.264,nuclear
+Asia Pacific,2006,8.796,nuclear
+Asia Pacific,2007,7.766,nuclear
+Asia Pacific,2008,7.243,nuclear
+Asia Pacific,2009,7.342,nuclear
+Asia Pacific,2010,7.059,nuclear
+Asia Pacific,2011,5.444,nuclear
+Asia Pacific,2012,3.696,nuclear
+Asia Pacific,2013,3.535,nuclear
+Asia Pacific,2014,3.591,nuclear
+Asia Pacific,2015,4.025,nuclear
+Asia Pacific,2016,4.274,nuclear
+Asia Pacific,2017,4.264,nuclear
+Asia Pacific,2018,4.502,nuclear
+Asia Pacific,2019,5.101,nuclear
+Asia Pacific,1985,19.282,oil
+Asia Pacific,1986,17.805,oil
+Asia Pacific,1987,16.606,oil
+Asia Pacific,1988,17.636,oil
+Asia Pacific,1989,17.733,oil
+Asia Pacific,1990,19.052,oil
+Asia Pacific,1991,18.125,oil
+Asia Pacific,1992,17.724,oil
+Asia Pacific,1993,16.1,oil
+Asia Pacific,1994,16.128,oil
+Asia Pacific,1995,14.509,oil
+Asia Pacific,1996,13.527,oil
+Asia Pacific,1997,12.262,oil
+Asia Pacific,1998,11.04,oil
+Asia Pacific,1999,10.359,oil
+Asia Pacific,2000,9.846,oil
+Asia Pacific,2001,8.557,oil
+Asia Pacific,2002,8.222,oil
+Asia Pacific,2003,7.688,oil
+Asia Pacific,2004,6.908,oil
+Asia Pacific,2005,6.413,oil
+Asia Pacific,2006,5.276,oil
+Asia Pacific,2007,5.085,oil
+Asia Pacific,2008,4.465,oil
+Asia Pacific,2009,3.366,oil
+Asia Pacific,2010,3.052,oil
+Asia Pacific,2011,3.516,oil
+Asia Pacific,2012,3.97,oil
+Asia Pacific,2013,3.013,oil
+Asia Pacific,2014,2.583,oil
+Asia Pacific,2015,2.398,oil
+Asia Pacific,2016,2.224,oil
+Asia Pacific,2017,1.72,oil
+Asia Pacific,2018,1.41,oil
+Asia Pacific,2019,1.099,oil
+Asia Pacific,1985,19.78,renewables
+Asia Pacific,1986,19.276,renewables
+Asia Pacific,1987,17.705,renewables
+Asia Pacific,1988,18.169,renewables
+Asia Pacific,1989,18.109,renewables
+Asia Pacific,1990,17.078,renewables
+Asia Pacific,1991,16.448,renewables
+Asia Pacific,1992,15.28,renewables
+Asia Pacific,1993,15.884,renewables
+Asia Pacific,1994,14.81,renewables
+Asia Pacific,1995,15.184,renewables
+Asia Pacific,1996,14.167,renewables
+Asia Pacific,1997,13.686,renewables
+Asia Pacific,1998,14.183,renewables
+Asia Pacific,1999,13.463,renewables
+Asia Pacific,2000,13.283,renewables
+Asia Pacific,2001,13.842,renewables
+Asia Pacific,2002,13.248,renewables
+Asia Pacific,2003,12.749,renewables
+Asia Pacific,2004,13.701,renewables
+Asia Pacific,2005,13.43,renewables
+Asia Pacific,2006,13.738,renewables
+Asia Pacific,2007,13.553,renewables
+Asia Pacific,2008,15.287,renewables
+Asia Pacific,2009,14.798,renewables
+Asia Pacific,2010,15.55,renewables
+Asia Pacific,2011,15.192,renewables
+Asia Pacific,2012,16.602,renewables
+Asia Pacific,2013,17.645,renewables
+Asia Pacific,2014,18.778,renewables
+Asia Pacific,2015,19.786,renewables
+Asia Pacific,2016,20.443,renewables
+Asia Pacific,2017,21.312,renewables
+Asia Pacific,2018,21.905,renewables
+Asia Pacific,2019,23.087,renewables
+Europe,1985,39.509,coal
+Europe,1986,39.883,coal
+Europe,1987,39.147,coal
+Europe,1988,37.481,coal
+Europe,1989,37.892,coal
+Europe,1990,37.926,coal
+Europe,1991,37.433,coal
+Europe,1992,36.327,coal
+Europe,1993,34.398,coal
+Europe,1994,34.161,coal
+Europe,1995,33.351,coal
+Europe,1996,32.61,coal
+Europe,1997,31.021,coal
+Europe,1998,30.421,coal
+Europe,1999,29.013,coal
+Europe,2000,29.646,coal
+Europe,2001,29.532,coal
+Europe,2002,29.319,coal
+Europe,2003,30.212,coal
+Europe,2004,28.824,coal
+Europe,2005,28.159,coal
+Europe,2006,28.848,coal
+Europe,2007,28.884,coal
+Europe,2008,26.806,coal
+Europe,2009,25.788,coal
+Europe,2010,24.991,coal
+Europe,2011,26.431,coal
+Europe,2012,27.564,coal
+Europe,2013,27.072,coal
+Europe,2014,25.802,coal
+Europe,2015,24.919,coal
+Europe,2016,22.968,coal
+Europe,2017,21.919,coal
+Europe,2018,21.062,coal
+Europe,2019,17.495,coal
+Europe,1985,7.729,gas
+Europe,1986,7.78,gas
+Europe,1987,7.88,gas
+Europe,1988,7.628,gas
+Europe,1989,8.267,gas
+Europe,1990,7.942,gas
+Europe,1991,7.859,gas
+Europe,1992,7.68,gas
+Europe,1993,8.424,gas
+Europe,1994,9.245,gas
+Europe,1995,9.747,gas
+Europe,1996,10.891,gas
+Europe,1997,12.269,gas
+Europe,1998,12.9,gas
+Europe,1999,14.898,gas
+Europe,2000,15.392,gas
+Europe,2001,15.672,gas
+Europe,2002,16.483,gas
+Europe,2003,17.598,gas
+Europe,2004,18.478,gas
+Europe,2005,19.674,gas
+Europe,2006,19.721,gas
+Europe,2007,21.161,gas
+Europe,2008,22.306,gas
+Europe,2009,21.761,gas
+Europe,2010,21.795,gas
+Europe,2011,20.699,gas
+Europe,2012,17.478,gas
+Europe,2013,15.734,gas
+Europe,2014,15.116,gas
+Europe,2015,15.342,gas
+Europe,2016,17.753,gas
+Europe,2017,19.348,gas
+Europe,2018,17.946,gas
+Europe,2019,19.235,gas
+Europe,1985,24.119,nuclear
+Europe,1986,25.075,nuclear
+Europe,1987,25.254,nuclear
+Europe,1988,27.033,nuclear
+Europe,1989,27.773,nuclear
+Europe,1990,27.839,nuclear
+Europe,1991,28.414,nuclear
+Europe,1992,28.969,nuclear
+Europe,1993,30.261,nuclear
+Europe,1994,29.823,nuclear
+Europe,1995,29.789,nuclear
+Europe,1996,30.776,nuclear
+Europe,1997,30.76,nuclear
+Europe,1998,29.826,nuclear
+Europe,1999,29.647,nuclear
+Europe,2000,28.971,nuclear
+Europe,2001,29.362,nuclear
+Europe,2002,29.459,nuclear
+Europe,2003,28.986,nuclear
+Europe,2004,28.8,nuclear
+Europe,2005,28.036,nuclear
+Europe,2006,27.593,nuclear
+Europe,2007,25.975,nuclear
+Europe,2008,25.806,nuclear
+Europe,2009,25.796,nuclear
+Europe,2010,25.384,nuclear
+Europe,2011,25.48,nuclear
+Europe,2012,24.636,nuclear
+Europe,2013,24.536,nuclear
+Europe,2014,25.205,nuclear
+Europe,2015,24.311,nuclear
+Europe,2016,23.419,nuclear
+Europe,2017,23.045,nuclear
+Europe,2018,23.009,nuclear
+Europe,2019,23.25,nuclear
+Europe,1985,9.42,oil
+Europe,1986,9.03,oil
+Europe,1987,8.727,oil
+Europe,1988,7.973,oil
+Europe,1989,8.789,oil
+Europe,1990,8.749,oil
+Europe,1991,8.603,oil
+Europe,1992,8.47,oil
+Europe,1993,7.575,oil
+Europe,1994,7.272,oil
+Europe,1995,7.573,oil
+Europe,1996,7.132,oil
+Europe,1997,6.688,oil
+Europe,1998,6.695,oil
+Europe,1999,6.142,oil
+Europe,2000,5.33,oil
+Europe,2001,5.117,oil
+Europe,2002,5.485,oil
+Europe,2003,4.794,oil
+Europe,2004,4.164,oil
+Europe,2005,3.941,oil
+Europe,2006,3.583,oil
+Europe,2007,3.067,oil
+Europe,2008,2.917,oil
+Europe,2009,2.786,oil
+Europe,2010,2.277,oil
+Europe,2011,1.927,oil
+Europe,2012,1.869,oil
+Europe,2013,1.63,oil
+Europe,2014,1.59,oil
+Europe,2015,1.659,oil
+Europe,2016,1.622,oil
+Europe,2017,1.523,oil
+Europe,2018,1.379,oil
+Europe,2019,1.297,oil
+Europe,1985,17.825,renewables
+Europe,1986,16.944,renewables
+Europe,1987,17.82,renewables
+Europe,1988,18.575,renewables
+Europe,1989,15.905,renewables
+Europe,1990,16.254,renewables
+Europe,1991,16.521,renewables
+Europe,1992,17.3,renewables
+Europe,1993,18.133,renewables
+Europe,1994,18.299,renewables
+Europe,1995,18.152,renewables
+Europe,1996,17.283,renewables
+Europe,1997,17.901,renewables
+Europe,1998,18.5,renewables
+Europe,1999,18.539,renewables
+Europe,2000,18.854,renewables
+Europe,2001,18.564,renewables
+Europe,2002,17.515,renewables
+Europe,2003,16.595,renewables
+Europe,2004,17.932,renewables
+Europe,2005,18.258,renewables
+Europe,2006,18.349,renewables
+Europe,2007,19.016,renewables
+Europe,2008,20.348,renewables
+Europe,2009,22.083,renewables
+Europe,2010,23.695,renewables
+Europe,2011,23.615,renewables
+Europe,2012,26.515,renewables
+Europe,2013,29.06,renewables
+Europe,2014,30.246,renewables
+Europe,2015,31.667,renewables
+Europe,2016,32.062,renewables
+Europe,2017,32.038,renewables
+Europe,2018,34.461,renewables
+Europe,2019,36.789,renewables
+North America,1985,49.526,coal
+North America,1986,48.335,coal
+North America,1987,49.352,coal
+North America,1988,49.719,coal
+North America,1989,47.994,coal
+North America,1990,47.382,coal
+North America,1991,46.598,coal
+North America,1992,47.19,coal
+North America,1993,47.306,coal
+North America,1994,46.497,coal
+North America,1995,45.844,coal
+North America,1996,46.769,coal
+North America,1997,47.437,coal
+North America,1998,46.832,coal
+North America,1999,45.976,coal
+North America,2000,46.572,coal
+North America,2001,45.806,coal
+North America,2002,45.187,coal
+North America,2003,46.017,coal
+North America,2004,44.735,coal
+North America,2005,44.529,coal
+North America,2006,43.885,coal
+North America,2007,43.488,coal
+North America,2008,42.827,coal
+North America,2009,39.531,coal
+North America,2010,40.08,coal
+North America,2011,37.549,coal
+North America,2012,33.232,coal
+North America,2013,34.341,coal
+North America,2014,34.129,coal
+North America,2015,29.411,coal
+North America,2016,27.065,coal
+North America,2017,26.453,coal
+North America,2018,24.296,coal
+North America,2019,20.908,coal
+North America,1985,10.209,gas
+North America,1986,8.685,gas
+North America,1987,9.134,gas
+North America,1988,8.197,gas
+North America,1989,10.7,gas
+North America,1990,11.059,gas
+North America,1991,11.208,gas
+North America,1992,11.851,gas
+North America,1993,11.808,gas
+North America,1994,12.788,gas
+North America,1995,13.467,gas
+North America,1996,12.048,gas
+North America,1997,12.601,gas
+North America,1998,13.649,gas
+North America,1999,14.011,gas
+North America,2000,14.857,gas
+North America,2001,16.308,gas
+North America,2002,17.271,gas
+North America,2003,16.516,gas
+North America,2004,17.685,gas
+North America,2005,18.188,gas
+North America,2006,19.95,gas
+North America,2007,21.34,gas
+North America,2008,21.142,gas
+North America,2009,23.044,gas
+North America,2010,23.823,gas
+North America,2011,24.603,gas
+North America,2012,29.243,gas
+North America,2013,27.136,gas
+North America,2014,27.247,gas
+North America,2015,31.751,gas
+North America,2016,32.6,gas
+North America,2017,31.087,gas
+North America,2018,33.67,gas
+North America,2019,36.415,gas
+North America,1985,14.457,nuclear
+North America,1986,15.63,nuclear
+North America,1987,16.49,nuclear
+North America,1988,18.048,nuclear
+North America,1989,16.878,nuclear
+North America,1990,17.818,nuclear
+North America,1991,18.774,nuclear
+North America,1992,18.684,nuclear
+North America,1993,18.199,nuclear
+North America,1994,18.892,nuclear
+North America,1995,19.049,nuclear
+North America,1996,18.45,nuclear
+North America,1997,16.926,nuclear
+North America,1998,17.166,nuclear
+North America,1999,18.061,nuclear
+North America,2000,17.986,nuclear
+North America,2001,18.697,nuclear
+North America,2002,18.385,nuclear
+North America,2003,17.951,nuclear
+North America,2004,18.339,nuclear
+North America,2005,17.812,nuclear
+North America,2006,18.018,nuclear
+North America,2007,17.856,nuclear
+North America,2008,18.015,nuclear
+North America,2009,18.491,nuclear
+North America,2010,17.915,nuclear
+North America,2011,17.659,nuclear
+North America,2012,17.408,nuclear
+North America,2013,17.888,nuclear
+North America,2014,17.977,nuclear
+North America,2015,17.897,nuclear
+North America,2016,17.996,nuclear
+North America,2017,18.104,nuclear
+North America,2018,17.645,nuclear
+North America,2019,17.763,nuclear
+North America,1985,5.279,oil
+North America,1986,6.594,oil
+North America,1987,6.035,oil
+North America,1988,6.832,oil
+North America,1989,7.072,oil
+North America,1990,5.651,oil
+North America,1991,5.391,oil
+North America,1992,4.831,oil
+North America,1993,4.895,oil
+North America,1994,4.898,oil
+North America,1995,3.66,oil
+North America,1996,3.79,oil
+North America,1997,4.355,oil
+North America,1998,5.386,oil
+North America,1999,4.92,oil
+North America,2000,4.723,oil
+North America,2001,5.08,oil
+North America,2002,3.985,oil
+North America,2003,4.41,oil
+North America,2004,4.407,oil
+North America,2005,4.247,oil
+North America,2006,2.563,oil
+North America,2007,2.52,oil
+North America,2008,2.123,oil
+North America,2009,1.974,oil
+North America,2010,1.715,oil
+North America,2011,1.649,oil
+North America,2012,1.657,oil
+North America,2013,1.578,oil
+North America,2014,1.31,oil
+North America,2015,1.253,oil
+North America,2016,1.207,oil
+North America,2017,1.242,oil
+North America,2018,1.221,oil
+North America,2019,1.139,oil
+North America,1985,20.514,renewables
+North America,1986,20.741,renewables
+North America,1987,18.974,renewables
+North America,1988,17.187,renewables
+North America,1989,17.223,renewables
+North America,1990,17.807,renewables
+North America,1991,17.691,renewables
+North America,1992,17.088,renewables
+North America,1993,17.445,renewables
+North America,1994,16.592,renewables
+North America,1995,17.623,renewables
+North America,1996,18.579,renewables
+North America,1997,18.288,renewables
+North America,1998,16.569,renewables
+North America,1999,16.604,renewables
+North America,2000,15.452,renewables
+North America,2001,13.815,renewables
+North America,2002,14.851,renewables
+North America,2003,14.67,renewables
+North America,2004,14.433,renewables
+North America,2005,14.751,renewables
+North America,2006,15.168,renewables
+North America,2007,14.408,renewables
+North America,2008,15.466,renewables
+North America,2009,16.522,renewables
+North America,2010,16.061,renewables
+North America,2011,18.135,renewables
+North America,2012,18.082,renewables
+North America,2013,18.699,renewables
+North America,2014,19.052,renewables
+North America,2015,19.397,renewables
+North America,2016,20.837,renewables
+North America,2017,22.78,renewables
+North America,2018,22.529,renewables
+North America,2019,23.109,renewables
+South & Central America,1985,2.692,coal
+South & Central America,1986,2.717,coal
+South & Central America,1987,2.516,coal
+South & Central America,1988,2.653,coal
+South & Central America,1989,3.078,coal
+South & Central America,1990,3.061,coal
+South & Central America,1991,2.809,coal
+South & Central America,1992,2.464,coal
+South & Central America,1993,2.447,coal
+South & Central America,1994,2.57,coal
+South & Central America,1995,2.818,coal
+South & Central America,1996,2.887,coal
+South & Central America,1997,3.053,coal
+South & Central America,1998,3.053,coal
+South & Central America,1999,3.594,coal
+South & Central America,2000,3.239,coal
+South & Central America,2001,2.883,coal
+South & Central America,2002,2.801,coal
+South & Central America,2003,3.055,coal
+South & Central America,2004,3.387,coal
+South & Central America,2005,3.317,coal
+South & Central America,2006,3.679,coal
+South & Central America,2007,3.859,coal
+South & Central America,2008,3.792,coal
+South & Central America,2009,3.63,coal
+South & Central America,2010,3.885,coal
+South & Central America,2011,4.111,coal
+South & Central America,2012,4.622,coal
+South & Central America,2013,5.732,coal
+South & Central America,2014,5.83,coal
+South & Central America,2015,5.792,coal
+South & Central America,2016,5.95,coal
+South & Central America,2017,5.341,coal
+South & Central America,2018,5.288,coal
+South & Central America,2019,5.588,coal
+South & Central America,1985,9.64,gas
+South & Central America,1986,9.367,gas
+South & Central America,1987,8.604,gas
+South & Central America,1988,10.13,gas
+South & Central America,1989,9.94,gas
+South & Central America,1990,9.235,gas
+South & Central America,1991,9.298,gas
+South & Central America,1992,9.128,gas
+South & Central America,1993,9.317,gas
+South & Central America,1994,8.906,gas
+South & Central America,1995,9.592,gas
+South & Central America,1996,9.962,gas
+South & Central America,1997,9.593,gas
+South & Central America,1998,10.257,gas
+South & Central America,1999,11.011,gas
+South & Central America,2000,11.962,gas
+South & Central America,2001,13.335,gas
+South & Central America,2002,12.834,gas
+South & Central America,2003,13.551,gas
+South & Central America,2004,14.854,gas
+South & Central America,2005,14.172,gas
+South & Central America,2006,13.317,gas
+South & Central America,2007,12.876,gas
+South & Central America,2008,14.058,gas
+South & Central America,2009,12.907,gas
+South & Central America,2010,15.521,gas
+South & Central America,2011,14.111,gas
+South & Central America,2012,16.573,gas
+South & Central America,2013,18.244,gas
+South & Central America,2014,19.258,gas
+South & Central America,2015,20.164,gas
+South & Central America,2016,19.247,gas
+South & Central America,2017,19.31,gas
+South & Central America,2018,18.297,gas
+South & Central America,2019,18.427,gas
+South & Central America,1985,2.243,nuclear
+South & Central America,1986,1.334,nuclear
+South & Central America,1987,1.613,nuclear
+South & Central America,1988,1.325,nuclear
+South & Central America,1989,1.384,nuclear
+South & Central America,1990,1.872,nuclear
+South & Central America,1991,1.722,nuclear
+South & Central America,1992,1.605,nuclear
+South & Central America,1993,1.408,nuclear
+South & Central America,1994,1.356,nuclear
+South & Central America,1995,1.483,nuclear
+South & Central America,1996,1.456,nuclear
+South & Central America,1997,1.551,nuclear
+South & Central America,1998,1.431,nuclear
+South & Central America,1999,1.435,nuclear
+South & Central America,2000,1.511,nuclear
+South & Central America,2001,2.679,nuclear
+South & Central America,2002,2.393,nuclear
+South & Central America,2003,2.43,nuclear
+South & Central America,2004,2.16,nuclear
+South & Central America,2005,1.774,nuclear
+South & Central America,2006,2.173,nuclear
+South & Central America,2007,1.896,nuclear
+South & Central America,2008,1.993,nuclear
+South & Central America,2009,1.952,nuclear
+South & Central America,2010,1.906,nuclear
+South & Central America,2011,1.868,nuclear
+South & Central America,2012,1.822,nuclear
+South & Central America,2013,1.708,nuclear
+South & Central America,2014,1.623,nuclear
+South & Central America,2015,1.679,nuclear
+South & Central America,2016,1.848,nuclear
+South & Central America,2017,1.669,nuclear
+South & Central America,2018,1.694,nuclear
+South & Central America,2019,1.851,nuclear
+South & Central America,1985,14.414,oil
+South & Central America,1986,15.445,oil
+South & Central America,1987,14.998,oil
+South & Central America,1988,14.218,oil
+South & Central America,1989,14.165,oil
+South & Central America,1990,13.158,oil
+South & Central America,1991,12.386,oil
+South & Central America,1992,13.484,oil
+South & Central America,1993,12.314,oil
+South & Central America,1994,11.963,oil
+South & Central America,1995,12.315,oil
+South & Central America,1996,12.254,oil
+South & Central America,1997,12.264,oil
+South & Central America,1998,13.195,oil
+South & Central America,1999,13.707,oil
+South & Central America,2000,12.696,oil
+South & Central America,2001,13.518,oil
+South & Central America,2002,13.039,oil
+South & Central America,2003,12.317,oil
+South & Central America,2004,11.882,oil
+South & Central America,2005,12.104,oil
+South & Central America,2006,12.26,oil
+South & Central America,2007,13.03,oil
+South & Central America,2008,13.389,oil
+South & Central America,2009,13.432,oil
+South & Central America,2010,11.997,oil
+South & Central America,2011,12.284,oil
+South & Central America,2012,12.37,oil
+South & Central America,2013,12.432,oil
+South & Central America,2014,12.354,oil
+South & Central America,2015,12.122,oil
+South & Central America,2016,10.703,oil
+South & Central America,2017,9.198,oil
+South & Central America,2018,8.561,oil
+South & Central America,2019,6.49,oil
+South & Central America,1985,71.005,renewables
+South & Central America,1986,71.129,renewables
+South & Central America,1987,72.255,renewables
+South & Central America,1988,71.496,renewables
+South & Central America,1989,71.346,renewables
+South & Central America,1990,72.612,renewables
+South & Central America,1991,73.739,renewables
+South & Central America,1992,73.27,renewables
+South & Central America,1993,74.458,renewables
+South & Central America,1994,75.146,renewables
+South & Central America,1995,73.759,renewables
+South & Central America,1996,73.41,renewables
+South & Central America,1997,73.488,renewables
+South & Central America,1998,72.015,renewables
+South & Central America,1999,70.205,renewables
+South & Central America,2000,70.583,renewables
+South & Central America,2001,67.581,renewables
+South & Central America,2002,68.928,renewables
+South & Central America,2003,68.642,renewables
+South & Central America,2004,67.703,renewables
+South & Central America,2005,68.603,renewables
+South & Central America,2006,68.555,renewables
+South & Central America,2007,68.303,renewables
+South & Central America,2008,66.737,renewables
+South & Central America,2009,68.032,renewables
+South & Central America,2010,65.934,renewables
+South & Central America,2011,67.595,renewables
+South & Central America,2012,64.532,renewables
+South & Central America,2013,61.832,renewables
+South & Central America,2014,60.209,renewables
+South & Central America,2015,60.068,renewables
+South & Central America,2016,62.189,renewables
+South & Central America,2017,64.468,renewables
+South & Central America,2018,66.125,renewables
+South & Central America,2019,67.617,renewables
+World,1985,37.934,coal
+World,1986,37.726,coal
+World,1987,38.045,coal
+World,1988,37.717,coal
+World,1989,37.559,coal
+World,1990,37.302,coal
+World,1991,37.299,coal
+World,1992,37.718,coal
+World,1993,37.541,coal
+World,1994,37.879,coal
+World,1995,37.677,coal
+World,1996,38.291,coal
+World,1997,38.212,coal
+World,1998,37.974,coal
+World,1999,37.72,coal
+World,2000,37.728,coal
+World,2001,37.783,coal
+World,2002,38.048,coal
+World,2003,39.116,coal
+World,2004,38.732,coal
+World,2005,39.004,coal
+World,2006,39.678,coal
+World,2007,40.4,coal
+World,2008,39.824,coal
+World,2009,39.466,coal
+World,2010,39.654,coal
+World,2011,40.278,coal
+World,2012,39.332,coal
+World,2013,40.058,coal
+World,2014,39.336,coal
+World,2015,37.767,coal
+World,2016,36.688,coal
+World,2017,36.667,coal
+World,2018,36.563,coal
+World,2019,35.064,coal
+World,1985,14.397,gas
+World,1986,14.043,gas
+World,1987,14.187,gas
+World,1988,13.801,gas
+World,1989,14.797,gas
+World,1990,14.929,gas
+World,1991,14.822,gas
+World,1992,14.784,gas
+World,1993,14.743,gas
+World,1994,14.844,gas
+World,1995,15.163,gas
+World,1996,15.159,gas
+World,1997,15.993,gas
+World,1998,16.51,gas
+World,1999,17.341,gas
+World,2000,18.014,gas
+World,2001,18.722,gas
+World,2002,19.377,gas
+World,2003,19.529,gas
+World,2004,20.061,gas
+World,2005,20.262,gas
+World,2006,20.604,gas
+World,2007,21.243,gas
+World,2008,21.567,gas
+World,2009,21.719,gas
+World,2010,22.301,gas
+World,2011,21.918,gas
+World,2012,22.617,gas
+World,2013,21.553,gas
+World,2014,21.729,gas
+World,2015,22.805,gas
+World,2016,23.057,gas
+World,2017,22.874,gas
+World,2018,22.47,gas
+World,2019,22.947,gas
+World,1985,15.071,nuclear
+World,1986,15.675,nuclear
+World,1987,16.267,nuclear
+World,1988,16.987,nuclear
+World,1989,16.69,nuclear
+World,1990,16.73,nuclear
+World,1991,17.156,nuclear
+World,1992,17.13,nuclear
+World,1993,17.351,nuclear
+World,1994,17.232,nuclear
+World,1995,17.363,nuclear
+World,1996,17.454,nuclear
+World,1997,16.928,nuclear
+World,1998,16.765,nuclear
+World,1999,16.922,nuclear
+World,2000,16.897,nuclear
+World,2001,17.069,nuclear
+World,2002,16.675,nuclear
+World,2003,15.962,nuclear
+World,2004,15.823,nuclear
+World,2005,15.29,nuclear
+World,2006,14.875,nuclear
+World,2007,13.899,nuclear
+World,2008,13.632,nuclear
+World,2009,13.482,nuclear
+World,2010,12.904,nuclear
+World,2011,11.957,nuclear
+World,2012,10.926,nuclear
+World,2013,10.711,nuclear
+World,2014,10.731,nuclear
+World,2015,10.707,nuclear
+World,2016,10.567,nuclear
+World,2017,10.354,nuclear
+World,2018,10.229,nuclear
+World,2019,10.505,nuclear
+World,1985,11.223,oil
+World,1986,11.463,oil
+World,1987,11.074,oil
+World,1988,11.266,oil
+World,1989,11.556,oil
+World,1990,11.412,oil
+World,1991,11.047,oil
+World,1992,10.768,oil
+World,1993,10.053,oil
+World,1994,10.075,oil
+World,1995,9.412,oil
+World,1996,9.027,oil
+World,1997,8.812,oil
+World,1998,8.929,oil
+World,1999,8.493,oil
+World,2000,7.986,oil
+World,2001,7.744,oil
+World,2002,7.416,oil
+World,2003,7.277,oil
+World,2004,6.895,oil
+World,2005,6.756,oil
+World,2006,6.135,oil
+World,2007,6.044,oil
+World,2008,5.807,oil
+World,2009,5.519,oil
+World,2010,5.081,oil
+World,2011,5.452,oil
+World,2012,5.59,oil
+World,2013,5.373,oil
+World,2014,5.082,oil
+World,2015,5.102,oil
+World,2016,5.026,oil
+World,2017,4.562,oil
+World,2018,4.477,oil
+World,2019,4.206,oil
+World,1985,20.828,renewables
+World,1986,20.565,renewables
+World,1987,19.931,renewables
+World,1988,19.7,renewables
+World,1989,18.833,renewables
+World,1990,19.067,renewables
+World,1991,19.118,renewables
+World,1992,19.021,renewables
+World,1993,19.717,renewables
+World,1994,19.394,renewables
+World,1995,19.745,renewables
+World,1996,19.443,renewables
+World,1997,19.406,renewables
+World,1998,19.117,renewables
+World,1999,18.805,renewables
+World,2000,19.375,renewables
+World,2001,18.683,renewables
+World,2002,18.484,renewables
+World,2003,18.117,renewables
+World,2004,18.489,renewables
+World,2005,18.688,renewables
+World,2006,18.709,renewables
+World,2007,18.414,renewables
+World,2008,19.169,renewables
+World,2009,19.814,renewables
+World,2010,20.061,renewables
+World,2011,20.395,renewables
+World,2012,21.536,renewables
+World,2013,22.304,renewables
+World,2014,23.122,renewables
+World,2015,23.619,renewables
+World,2016,24.662,renewables
+World,2017,25.543,renewables
+World,2018,26.26,renewables
+World,2019,27.279,renewables
