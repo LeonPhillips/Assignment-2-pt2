@@ -10,7 +10,7 @@
         "min": 1985,
         "max": 2019,
         "step": 1,
-        "name": "HELP: "
+        "name": "Year: "
       }
     },
     {
