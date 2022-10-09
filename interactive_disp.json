@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text": "Energy Consumption", "fontSize": 20,"align": "center"},
+  "title": {"text": "Energy Consumption", "fontSize": "20"},
   "params": [
     {
       "name": "Year_selection",
@@ -20,7 +20,7 @@
         "input": "range",
         "min": 40,
         "max": 1000,
-        "step": 1,
+        "step": 10,
         "name": "Zoom: "
       }
     },
@@ -41,7 +41,7 @@
       "bind":{
         "input":"range",
         "min":-50,
-        "max":100,
+        "max":90,
         "step":1,
         "name":"Pan Vertically: "
       }
@@ -125,7 +125,11 @@
               "field": "low_carbon_share_elec",
               "title": "% Share - Low Carbon Sources",
               "type": "quantitative",
-              "scale": {"range": ["#e71010", "#ffff4c"]}
+              "scale": {"range": ["#e71010", "#ffff4c"]},
+              "legend": {
+              "direction":"horizontal",
+              "orient":"bottom"
+              }
             },
             "tooltip": [
               {"field": "country", "type": "nominal", "title": "Country"},
@@ -144,7 +148,7 @@
         "url": "https://raw.githubusercontent.com/LeonPhillips/Assignment-2-pt2/main/worldEnergyconsum_stacked_bar_3.csv"
       },
       "height":200,
-      "width":200,
+      "width":300,
 
       "layer":[{
 
