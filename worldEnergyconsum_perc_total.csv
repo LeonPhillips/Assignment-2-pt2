@@ -1,0 +1,961 @@
+country,year,percentage,total,type
+Africa,1985,53.869,139.514,coal
+Africa,1986,52.6,142.078,coal
+Africa,1987,54.317,152.227,coal
+Africa,1988,51.626,152.449,coal
+Africa,1989,51.267,157.211,coal
+Africa,1990,51.635,164.674,coal
+Africa,1991,50.704,164.786,coal
+Africa,1992,50.43,165.42,coal
+Africa,1993,51.875,175.962,coal
+Africa,1994,51.156,179.799,coal
+Africa,1995,51.523,186.889,coal
+Africa,1996,51.622,197.294,coal
+Africa,1997,51.395,206.048,coal
+Africa,1998,49.642,201.7,coal
+Africa,1999,47.752,199.796,coal
+Africa,2000,47.484,208.214,coal
+Africa,2001,46.984,214.431,coal
+Africa,2002,46.049,222.898,coal
+Africa,2003,46.519,235.015,coal
+Africa,2004,45.744,245.195,coal
+Africa,2005,44.766,248.812,coal
+Africa,2006,44.01,255.901,coal
+Africa,2007,43.347,262.47,coal
+Africa,2008,41.562,257.491,coal
+Africa,2009,39.502,247.706,coal
+Africa,2010,38.318,257.335,coal
+Africa,2011,37.727,259.959,coal
+Africa,2012,35.456,255.512,coal
+Africa,2013,33.808,251.335,coal
+Africa,2014,32.823,251.874,coal
+Africa,2015,31.349,246.836,coal
+Africa,2016,31.128,249.796,coal
+Africa,1985,10.783,27.926,gas
+Africa,1986,10.495,28.349,gas
+Africa,1987,11.27,31.584,gas
+Africa,1988,11.517,34.01,gas
+Africa,1989,12.046,36.939,gas
+Africa,1990,13.372,42.646,gas
+Africa,1991,14.034,45.612,gas
+Africa,1992,15.409,50.544,gas
+Africa,1993,16.254,55.134,gas
+Africa,1994,17.669,62.102,gas
+Africa,1995,18.282,66.314,gas
+Africa,1996,18.313,69.992,gas
+Africa,1997,18.918,75.844,gas
+Africa,1998,19.032,77.33,gas
+Africa,1999,20.576,86.09,gas
+Africa,2000,20.945,91.842,gas
+Africa,2001,22.125,100.976,gas
+Africa,2002,23.955,115.952,gas
+Africa,2003,24.54,123.976,gas
+Africa,2004,25.774,138.154,gas
+Africa,2005,27.482,152.749,gas
+Africa,2006,28.276,164.415,gas
+Africa,2007,28.871,174.819,gas
+Africa,2008,29.78,184.493,gas
+Africa,2009,30.703,192.528,gas
+Africa,2010,32.504,218.292,gas
+Africa,2011,34.206,235.694,gas
+Africa,2012,36.251,261.239,gas
+Africa,2013,36.113,268.471,gas
+Africa,2014,36.112,277.117,gas
+Africa,2015,37.172,292.686,gas
+Africa,2016,38.244,306.894,gas
+Africa,1985,2.052,5.315,nuclear
+Africa,1986,3.259,8.803,nuclear
+Africa,1987,2.2,6.167,nuclear
+Africa,1988,3.553,10.493,nuclear
+Africa,1989,3.619,11.099,nuclear
+Africa,1990,2.649,8.449,nuclear
+Africa,1991,2.814,9.144,nuclear
+Africa,1992,2.832,9.288,nuclear
+Africa,1993,2.139,7.255,nuclear
+Africa,1994,2.759,9.697,nuclear
+Africa,1995,3.116,11.301,nuclear
+Africa,1996,3.081,11.775,nuclear
+Africa,1997,3.155,12.647,nuclear
+Africa,1998,3.347,13.601,nuclear
+Africa,1999,3.068,12.837,nuclear
+Africa,2000,2.967,13.01,nuclear
+Africa,2001,2.349,10.719,nuclear
+Africa,2002,2.477,11.991,nuclear
+Africa,2003,2.507,12.663,nuclear
+Africa,2004,2.493,13.365,nuclear
+Africa,2005,2.032,11.293,nuclear
+Africa,2006,1.724,10.026,nuclear
+Africa,2007,1.869,11.317,nuclear
+Africa,2008,2.099,13.004,nuclear
+Africa,2009,2.042,12.806,nuclear
+Africa,2010,2.014,13.527,nuclear
+Africa,2011,1.872,12.902,nuclear
+Africa,2012,1.799,12.967,nuclear
+Africa,2013,1.897,14.106,nuclear
+Africa,2014,1.798,13.794,nuclear
+Africa,2015,1.554,12.237,nuclear
+Africa,2016,1.983,15.913,nuclear
+Africa,1985,13.242,34.296,oil
+Africa,1986,13.766,37.184,oil
+Africa,1987,13.803,38.684,oil
+Africa,1988,14.431,42.613,oil
+Africa,1989,14.133,43.338,oil
+Africa,1990,13.522,43.126,oil
+Africa,1991,12.986,42.203,oil
+Africa,1992,13.03,42.743,oil
+Africa,1993,12.354,41.905,oil
+Africa,1994,11.361,39.93,oil
+Africa,1995,9.966,36.15,oil
+Africa,1996,9.766,37.324,oil
+Africa,1997,9.606,38.51,oil
+Africa,1998,10.553,42.877,oil
+Africa,1999,10.68,44.687,oil
+Africa,2000,10.55,46.263,oil
+Africa,2001,10.329,47.139,oil
+Africa,2002,9.588,46.41,oil
+Africa,2003,9.476,47.871,oil
+Africa,2004,9.092,48.735,oil
+Africa,2005,9.135,50.775,oil
+Africa,2006,9.407,54.697,oil
+Africa,2007,9.61,58.191,oil
+Africa,2008,10.132,62.768,oil
+Africa,2009,10.798,67.713,oil
+Africa,2010,9.734,65.371,oil
+Africa,2011,8.394,57.839,oil
+Africa,2012,9.568,68.948,oil
+Africa,2013,10.711,79.63,oil
+Africa,2014,11.035,84.679,oil
+Africa,2015,11.788,92.817,oil
+Africa,2016,10.862,87.162,oil
+Africa,1985,19.197,49.719,renewables
+Africa,1986,19.179,51.804,renewables
+Africa,1987,17.739,49.714,renewables
+Africa,1988,18.361,54.219,renewables
+Africa,1989,18.553,56.893,renewables
+Africa,1990,18.193,58.02,renewables
+Africa,1991,18.905,61.439,renewables
+Africa,1992,17.891,58.685,renewables
+Africa,1993,16.981,57.6,renewables
+Africa,1994,16.622,58.422,renewables
+Africa,1995,16.761,60.796,renewables
+Africa,1996,16.637,63.584,renewables
+Africa,1997,16.275,65.248,renewables
+Africa,1998,16.829,68.377,renewables
+Africa,1999,17.304,72.4,renewables
+Africa,2000,17.721,77.704,renewables
+Africa,2001,18.325,83.632,renewables
+Africa,2002,18.166,87.932,renewables
+Africa,2003,17.035,86.059,renewables
+Africa,2004,17.012,91.186,renewables
+Africa,2005,16.713,92.895,renewables
+Africa,2006,16.667,96.909,renewables
+Africa,2007,16.442,99.557,renewables
+Africa,2008,16.434,101.816,renewables
+Africa,2009,16.746,105.012,renewables
+Africa,2010,16.938,113.754,renewables
+Africa,2011,17.033,117.365,renewables
+Africa,2012,16.451,118.555,renewables
+Africa,2013,17.015,126.496,renewables
+Africa,2014,17.758,136.269,renewables
+Africa,2015,17.714,139.477,renewables
+Africa,2016,17.353,139.253,renewables
+Asia Pacific,1985,37.765,650.722,coal
+Asia Pacific,1986,39.374,714.622,coal
+Asia Pacific,1987,40.697,802.001,coal
+Asia Pacific,1988,40.993,870.004,coal
+Asia Pacific,1989,41.324,945.36,coal
+Asia Pacific,1990,40.739,1005.78,coal
+Asia Pacific,1991,42.092,1109.339,coal
+Asia Pacific,1992,43.888,1220.033,coal
+Asia Pacific,1993,44.266,1291.792,coal
+Asia Pacific,1994,45.298,1438.51,coal
+Asia Pacific,1995,45.625,1549.107,coal
+Asia Pacific,1996,47.211,1686.074,coal
+Asia Pacific,1997,47.577,1780.491,coal
+Asia Pacific,1998,47.956,1845.875,coal
+Asia Pacific,1999,49.365,1993.877,coal
+Asia Pacific,2000,50.739,2174.519,coal
+Asia Pacific,2001,51.557,2308.735,coal
+Asia Pacific,2002,52.673,2508.411,coal
+Asia Pacific,2003,55.248,2816.948,coal
+Asia Pacific,2004,55.121,3068.934,coal
+Asia Pacific,2005,56.854,3394.883,coal
+Asia Pacific,2006,58.257,3761.526,coal
+Asia Pacific,2007,59.708,4188.346,coal
+Asia Pacific,2008,58.993,4307.8,coal
+Asia Pacific,2009,60.396,4552.347,coal
+Asia Pacific,2010,59.723,4931.766,coal
+Asia Pacific,2011,61.334,5443.459,coal
+Asia Pacific,2012,61.004,5660.018,coal
+Asia Pacific,2013,62.004,6084.452,coal
+Asia Pacific,2014,61.325,6336.95,coal
+Asia Pacific,2015,60.097,6268.615,coal
+Asia Pacific,2016,59.251,6485.893,coal
+Asia Pacific,1985,10.36,178.517,gas
+Asia Pacific,1986,10.355,187.94,gas
+Asia Pacific,1987,10.724,211.322,gas
+Asia Pacific,1988,10.681,226.677,gas
+Asia Pacific,1989,10.559,241.565,gas
+Asia Pacific,1990,10.96,270.587,gas
+Asia Pacific,1991,11.146,293.739,gas
+Asia Pacific,1992,11.292,313.91,gas
+Asia Pacific,1993,11.191,326.57,gas
+Asia Pacific,1994,11.494,365.006,gas
+Asia Pacific,1995,11.99,407.111,gas
+Asia Pacific,1996,12.414,443.333,gas
+Asia Pacific,1997,13.594,508.748,gas
+Asia Pacific,1998,13.844,532.891,gas
+Asia Pacific,1999,14.289,577.148,gas
+Asia Pacific,2000,13.993,599.698,gas
+Asia Pacific,2001,14.272,639.118,gas
+Asia Pacific,2002,14.499,690.47,gas
+Asia Pacific,2003,14.83,756.148,gas
+Asia Pacific,2004,14.378,800.526,gas
+Asia Pacific,2005,13.729,819.78,gas
+Asia Pacific,2006,13.641,880.788,gas
+Asia Pacific,2007,13.611,954.775,gas
+Asia Pacific,2008,13.776,1005.937,gas
+Asia Pacific,2009,13.869,1045.365,gas
+Asia Pacific,2010,14.097,1164.089,gas
+Asia Pacific,2011,13.978,1240.546,gas
+Asia Pacific,2012,14.219,1319.232,gas
+Asia Pacific,2013,13.291,1304.233,gas
+Asia Pacific,2014,13.212,1365.23,gas
+Asia Pacific,2015,13.19,1375.787,gas
+Asia Pacific,2016,12.83,1404.401,gas
+Asia Pacific,1985,12.184,209.947,nuclear
+Asia Pacific,1986,12.461,226.168,nuclear
+Asia Pacific,1987,13.532,266.673,nuclear
+Asia Pacific,1988,11.823,250.92,nuclear
+Asia Pacific,1989,11.61,265.596,nuclear
+Asia Pacific,1990,11.63,287.139,nuclear
+Asia Pacific,1991,11.616,306.128,nuclear
+Asia Pacific,1992,11.309,314.366,nuclear
+Asia Pacific,1993,11.94,348.43,nuclear
+Asia Pacific,1994,11.716,372.059,nuclear
+Asia Pacific,1995,12.081,410.202,nuclear
+Asia Pacific,1996,12.076,431.28,nuclear
+Asia Pacific,1997,12.277,459.453,nuclear
+Asia Pacific,1998,12.428,478.352,nuclear
+Asia Pacific,1999,12.044,486.471,nuclear
+Asia Pacific,2000,11.668,500.039,nuclear
+Asia Pacific,2001,11.313,506.604,nuclear
+Asia Pacific,2002,10.904,519.29,nuclear
+Asia Pacific,2003,9.062,462.029,nuclear
+Asia Pacific,2004,9.523,530.21,nuclear
+Asia Pacific,2005,9.264,553.142,nuclear
+Asia Pacific,2006,8.796,567.918,nuclear
+Asia Pacific,2007,7.766,544.765,nuclear
+Asia Pacific,2008,7.243,528.901,nuclear
+Asia Pacific,2009,7.342,553.403,nuclear
+Asia Pacific,2010,7.059,582.945,nuclear
+Asia Pacific,2011,5.444,483.132,nuclear
+Asia Pacific,2012,3.696,342.914,nuclear
+Asia Pacific,2013,3.535,346.899,nuclear
+Asia Pacific,2014,3.591,371.054,nuclear
+Asia Pacific,2015,4.025,419.868,nuclear
+Asia Pacific,2016,4.274,467.814,nuclear
+Asia Pacific,1985,19.282,332.254,oil
+Asia Pacific,1986,17.805,323.149,oil
+Asia Pacific,1987,16.606,327.241,oil
+Asia Pacific,1988,17.636,374.306,oil
+Asia Pacific,1989,17.733,405.665,oil
+Asia Pacific,1990,19.052,470.361,oil
+Asia Pacific,1991,18.125,477.691,oil
+Asia Pacific,1992,17.724,492.719,oil
+Asia Pacific,1993,16.1,469.826,oil
+Asia Pacific,1994,16.128,512.179,oil
+Asia Pacific,1995,14.509,492.638,oil
+Asia Pacific,1996,13.527,483.089,oil
+Asia Pacific,1997,12.262,458.877,oil
+Asia Pacific,1998,11.04,424.948,oil
+Asia Pacific,1999,10.359,418.386,oil
+Asia Pacific,2000,9.846,421.966,oil
+Asia Pacific,2001,8.557,383.197,oil
+Asia Pacific,2002,8.222,391.561,oil
+Asia Pacific,2003,7.688,391.998,oil
+Asia Pacific,2004,6.908,384.599,oil
+Asia Pacific,2005,6.413,382.909,oil
+Asia Pacific,2006,5.276,340.654,oil
+Asia Pacific,2007,5.085,356.67,oil
+Asia Pacific,2008,4.465,326.074,oil
+Asia Pacific,2009,3.366,253.738,oil
+Asia Pacific,2010,3.052,252.054,oil
+Asia Pacific,2011,3.516,312.032,oil
+Asia Pacific,2012,3.97,368.354,oil
+Asia Pacific,2013,3.013,295.704,oil
+Asia Pacific,2014,2.583,266.937,oil
+Asia Pacific,2015,2.398,250.173,oil
+Asia Pacific,2016,2.224,243.483,oil
+Asia Pacific,1985,19.78,340.836,renewables
+Asia Pacific,1986,19.276,349.849,renewables
+Asia Pacific,1987,17.705,348.901,renewables
+Asia Pacific,1988,18.169,385.613,renewables
+Asia Pacific,1989,18.109,414.287,renewables
+Asia Pacific,1990,17.078,421.642,renewables
+Asia Pacific,1991,16.448,433.494,renewables
+Asia Pacific,1992,15.28,424.779,renewables
+Asia Pacific,1993,15.884,463.54,renewables
+Asia Pacific,1994,14.81,470.306,renewables
+Asia Pacific,1995,15.184,515.529,renewables
+Asia Pacific,1996,14.167,505.955,renewables
+Asia Pacific,1997,13.686,512.193,renewables
+Asia Pacific,1998,14.183,545.909,renewables
+Asia Pacific,1999,13.463,543.785,renewables
+Asia Pacific,2000,13.283,569.253,renewables
+Asia Pacific,2001,13.842,619.833,renewables
+Asia Pacific,2002,13.248,630.878,renewables
+Asia Pacific,2003,12.749,650.055,renewables
+Asia Pacific,2004,13.701,762.827,renewables
+Asia Pacific,2005,13.43,801.938,renewables
+Asia Pacific,2006,13.738,887.058,renewables
+Asia Pacific,2007,13.553,950.714,renewables
+Asia Pacific,2008,15.287,1116.304,renewables
+Asia Pacific,2009,14.798,1115.373,renewables
+Asia Pacific,2010,15.55,1284.107,renewables
+Asia Pacific,2011,15.192,1348.292,renewables
+Asia Pacific,2012,16.602,1540.353,renewables
+Asia Pacific,2013,17.645,1731.566,renewables
+Asia Pacific,2014,18.778,1940.427,renewables
+Asia Pacific,2015,19.786,2063.857,renewables
+Asia Pacific,2016,20.443,2237.837,renewables
+Europe,1985,39.509,1139.321,coal
+Europe,1986,39.883,1175.152,coal
+Europe,1987,39.147,1191.952,coal
+Europe,1988,37.481,1173.294,coal
+Europe,1989,37.892,1209.91,coal
+Europe,1990,37.926,1218.468,coal
+Europe,1991,37.433,1209.14,coal
+Europe,1992,36.327,1158.968,coal
+Europe,1993,34.398,1092.038,coal
+Europe,1994,34.161,1090.628,coal
+Europe,1995,33.351,1093.77,coal
+Europe,1996,32.61,1093.686,coal
+Europe,1997,31.021,1051.357,coal
+Europe,1998,30.421,1054.519,coal
+Europe,1999,29.013,1018.2,coal
+Europe,2000,29.646,1073.285,coal
+Europe,2001,29.532,1088.294,coal
+Europe,2002,29.319,1090.231,coal
+Europe,2003,30.212,1151.562,coal
+Europe,2004,28.824,1123.566,coal
+Europe,2005,28.159,1115.057,coal
+Europe,2006,28.848,1158.472,coal
+Europe,2007,28.884,1174.033,coal
+Europe,2008,26.806,1095.968,coal
+Europe,2009,25.788,1004.344,coal
+Europe,2010,24.991,1016.073,coal
+Europe,2011,26.431,1062.391,coal
+Europe,2012,27.564,1116.99,coal
+Europe,2013,27.072,1088.458,coal
+Europe,2014,25.802,1016.207,coal
+Europe,2015,24.919,992.501,coal
+Europe,2016,22.968,924.017,coal
+Europe,1985,7.729,222.893,gas
+Europe,1986,7.78,229.243,gas
+Europe,1987,7.88,239.925,gas
+Europe,1988,7.628,238.77,gas
+Europe,1989,8.267,263.966,gas
+Europe,1990,7.942,255.146,gas
+Europe,1991,7.859,253.846,gas
+Europe,1992,7.68,245.008,gas
+Europe,1993,8.424,267.451,gas
+Europe,1994,9.245,295.152,gas
+Europe,1995,9.747,319.665,gas
+Europe,1996,10.891,365.274,gas
+Europe,1997,12.269,415.818,gas
+Europe,1998,12.9,447.168,gas
+Europe,1999,14.898,522.825,gas
+Europe,2000,15.392,557.227,gas
+Europe,2001,15.672,577.535,gas
+Europe,2002,16.483,612.94,gas
+Europe,2003,17.598,670.779,gas
+Europe,2004,18.478,720.299,gas
+Europe,2005,19.674,779.055,gas
+Europe,2006,19.721,791.962,gas
+Europe,2007,21.161,860.12,gas
+Europe,2008,22.306,912.014,gas
+Europe,2009,21.761,847.509,gas
+Europe,2010,21.795,886.118,gas
+Europe,2011,20.699,831.987,gas
+Europe,2012,17.478,708.267,gas
+Europe,2013,15.734,632.589,gas
+Europe,2014,15.116,595.331,gas
+Europe,2015,15.342,611.046,gas
+Europe,2016,17.753,714.213,gas
+Europe,1985,24.119,695.522,nuclear
+Europe,1986,25.075,738.838,nuclear
+Europe,1987,25.254,768.928,nuclear
+Europe,1988,27.033,846.228,nuclear
+Europe,1989,27.773,886.824,nuclear
+Europe,1990,27.839,894.412,nuclear
+Europe,1991,28.414,917.795,nuclear
+Europe,1992,28.969,924.221,nuclear
+Europe,1993,30.261,960.69,nuclear
+Europe,1994,29.823,952.128,nuclear
+Europe,1995,29.789,976.941,nuclear
+Europe,1996,30.776,1032.181,nuclear
+Europe,1997,30.76,1042.5,nuclear
+Europe,1998,29.826,1033.896,nuclear
+Europe,1999,29.647,1040.453,nuclear
+Europe,2000,28.971,1048.821,nuclear
+Europe,2001,29.362,1082.006,nuclear
+Europe,2002,29.459,1095.455,nuclear
+Europe,2003,28.986,1104.81,nuclear
+Europe,2004,28.8,1122.66,nuclear
+Europe,2005,28.036,1110.195,nuclear
+Europe,2006,27.593,1108.071,nuclear
+Europe,2007,25.975,1055.813,nuclear
+Europe,2008,25.806,1055.098,nuclear
+Europe,2009,25.796,1004.693,nuclear
+Europe,2010,25.384,1032.048,nuclear
+Europe,2011,25.48,1024.166,nuclear
+Europe,2012,24.636,998.367,nuclear
+Europe,2013,24.536,986.485,nuclear
+Europe,2014,25.205,992.702,nuclear
+Europe,2015,24.311,968.268,nuclear
+Europe,2016,23.419,942.17,nuclear
+Europe,1985,9.42,271.632,oil
+Europe,1986,9.03,266.063,oil
+Europe,1987,8.727,265.716,oil
+Europe,1988,7.973,249.582,oil
+Europe,1989,8.789,280.627,oil
+Europe,1990,8.749,281.093,oil
+Europe,1991,8.603,277.872,oil
+Europe,1992,8.47,270.235,oil
+Europe,1993,7.575,240.487,oil
+Europe,1994,7.272,232.168,oil
+Europe,1995,7.573,248.37,oil
+Europe,1996,7.132,239.208,oil
+Europe,1997,6.688,226.665,oil
+Europe,1998,6.695,232.092,oil
+Europe,1999,6.142,215.534,oil
+Europe,2000,5.33,192.969,oil
+Europe,2001,5.117,188.577,oil
+Europe,2002,5.485,203.96,oil
+Europe,2003,4.794,182.733,oil
+Europe,2004,4.164,162.321,oil
+Europe,2005,3.941,156.073,oil
+Europe,2006,3.583,143.905,oil
+Europe,2007,3.067,124.663,oil
+Europe,2008,2.917,119.279,oil
+Europe,2009,2.786,108.51,oil
+Europe,2010,2.277,92.571,oil
+Europe,2011,1.927,77.471,oil
+Europe,2012,1.869,75.749,oil
+Europe,2013,1.63,65.522,oil
+Europe,2014,1.59,62.627,oil
+Europe,2015,1.659,66.057,oil
+Europe,2016,1.622,65.269,oil
+Europe,1985,17.825,514.014,renewables
+Europe,1986,16.944,499.247,renewables
+Europe,1987,17.82,542.572,renewables
+Europe,1988,18.575,581.478,renewables
+Europe,1989,15.905,507.868,renewables
+Europe,1990,16.254,522.202,renewables
+Europe,1991,16.521,533.637,renewables
+Europe,1992,17.3,551.928,renewables
+Europe,1993,18.133,575.663,renewables
+Europe,1994,18.299,584.231,renewables
+Europe,1995,18.152,595.298,renewables
+Europe,1996,17.283,579.649,renewables
+Europe,1997,17.901,606.702,renewables
+Europe,1998,18.5,641.283,renewables
+Europe,1999,18.539,650.616,renewables
+Europe,2000,18.854,682.584,renewables
+Europe,2001,18.564,684.1,renewables
+Europe,2002,17.515,651.301,renewables
+Europe,2003,16.595,632.549,renewables
+Europe,2004,17.932,699.002,renewables
+Europe,2005,18.258,722.982,renewables
+Europe,2006,18.349,736.874,renewables
+Europe,2007,19.016,772.962,renewables
+Europe,2008,20.348,831.933,renewables
+Europe,2009,22.083,860.067,renewables
+Europe,2010,23.695,963.398,renewables
+Europe,2011,23.615,949.185,renewables
+Europe,2012,26.515,1074.507,renewables
+Europe,2013,29.06,1168.404,renewables
+Europe,2014,30.246,1191.232,renewables
+Europe,2015,31.667,1261.247,renewables
+Europe,2016,32.062,1289.869,renewables
+North America,1985,49.526,1590.974,coal
+North America,1986,48.335,1568.126,coal
+North America,1987,49.352,1665.509,coal
+North America,1988,49.719,1756.435,coal
+North America,1989,47.994,1811.095,coal
+North America,1990,47.382,1815.174,coal
+North America,1991,46.598,1820.263,coal
+North America,1992,47.19,1857.081,coal
+North America,1993,47.306,1925.154,coal
+North America,1994,46.497,1933.208,coal
+North America,1995,45.844,1960.092,coal
+North America,1996,46.769,2053.909,coal
+North America,1997,47.437,2113.561,coal
+North America,1998,46.832,2153.722,coal
+North America,1999,45.976,2162.658,coal
+North America,2000,46.572,2263.256,coal
+North America,2001,45.806,2190.631,coal
+North America,2002,45.187,2226.471,coal
+North America,2003,46.017,2278.385,coal
+North America,2004,44.735,2266.104,coal
+North America,2005,44.529,2313.261,coal
+North America,2006,43.885,2281.681,coal
+North America,2007,43.488,2318.84,coal
+North America,2008,42.827,2267.462,coal
+North America,2009,39.531,2011.398,coal
+North America,2010,40.08,2114.916,coal
+North America,2011,37.549,1987.746,coal
+North America,2012,33.232,1742.521,coal
+North America,2013,34.341,1814.274,coal
+North America,2014,34.129,1813.694,coal
+North America,2015,29.411,1564.177,coal
+North America,2016,27.065,1442.9,coal
+North America,1985,10.209,327.941,gas
+North America,1986,8.685,281.751,gas
+North America,1987,9.134,308.259,gas
+North America,1988,8.197,289.564,gas
+North America,1989,10.7,403.765,gas
+North America,1990,11.059,423.685,gas
+North America,1991,11.208,437.826,gas
+North America,1992,11.851,466.387,gas
+North America,1993,11.808,480.524,gas
+North America,1994,12.788,531.676,gas
+North America,1995,13.467,575.769,gas
+North America,1996,12.048,529.097,gas
+North America,1997,12.601,561.43,gas
+North America,1998,13.649,627.69,gas
+North America,1999,14.011,659.055,gas
+North America,2000,14.857,722.012,gas
+North America,2001,16.308,779.924,gas
+North America,2002,17.271,850.992,gas
+North America,2003,16.516,817.733,gas
+North America,2004,17.685,895.872,gas
+North America,2005,18.188,944.851,gas
+North America,2006,19.95,1037.253,gas
+North America,2007,21.34,1137.906,gas
+North America,2008,21.142,1119.348,gas
+North America,2009,23.044,1172.51,gas
+North America,2010,23.823,1257.093,gas
+North America,2011,24.603,1302.449,gas
+North America,2012,29.243,1533.36,gas
+North America,2013,27.136,1433.629,gas
+North America,2014,27.247,1447.953,gas
+North America,2015,31.751,1688.612,gas
+North America,2016,32.6,1737.976,gas
+North America,1985,14.457,464.406,nuclear
+North America,1986,15.63,507.097,nuclear
+North America,1987,16.49,556.493,nuclear
+North America,1988,18.048,637.575,nuclear
+North America,1989,16.878,636.904,nuclear
+North America,1990,17.818,682.62,nuclear
+North America,1991,18.774,733.386,nuclear
+North America,1992,18.684,735.285,nuclear
+North America,1993,18.199,740.627,nuclear
+North America,1994,18.892,785.47,nuclear
+North America,1995,19.049,814.452,nuclear
+North America,1996,18.45,810.241,nuclear
+North America,1997,16.926,754.141,nuclear
+North America,1998,17.166,789.418,nuclear
+North America,1999,18.061,849.565,nuclear
+North America,2000,17.986,874.086,nuclear
+North America,2001,18.697,894.179,nuclear
+North America,2002,18.385,905.867,nuclear
+North America,2003,17.951,888.802,nuclear
+North America,2004,18.339,928.982,nuclear
+North America,2005,17.812,925.348,nuclear
+North America,2006,18.018,936.801,nuclear
+North America,2007,17.856,952.131,nuclear
+North America,2008,18.015,953.797,nuclear
+North America,2009,18.491,940.866,nuclear
+North America,2010,17.915,945.348,nuclear
+North America,2011,17.659,934.821,nuclear
+North America,2012,17.408,912.794,nuclear
+North America,2013,17.888,945.064,nuclear
+North America,2014,17.977,955.334,nuclear
+North America,2015,17.897,951.813,nuclear
+North America,2016,17.996,959.39,nuclear
+North America,1985,5.279,169.584,oil
+North America,1986,6.594,213.921,oil
+North America,1987,6.035,203.663,oil
+North America,1988,6.832,241.347,oil
+North America,1989,7.072,266.876,oil
+North America,1990,5.651,216.485,oil
+North America,1991,5.391,210.593,oil
+North America,1992,4.831,190.134,oil
+North America,1993,4.895,199.21,oil
+North America,1994,4.898,203.66,oil
+North America,1995,3.66,156.476,oil
+North America,1996,3.79,166.437,oil
+North America,1997,4.355,194.058,oil
+North America,1998,5.386,247.685,oil
+North America,1999,4.92,231.43,oil
+North America,2000,4.723,229.526,oil
+North America,2001,5.08,242.927,oil
+North America,2002,3.985,196.332,oil
+North America,2003,4.41,218.336,oil
+North America,2004,4.407,223.22,oil
+North America,2005,4.247,220.627,oil
+North America,2006,2.563,133.232,oil
+North America,2007,2.52,134.358,oil
+North America,2008,2.123,112.378,oil
+North America,2009,1.974,100.415,oil
+North America,2010,1.715,90.511,oil
+North America,2011,1.649,87.318,oil
+North America,2012,1.657,86.877,oil
+North America,2013,1.578,83.365,oil
+North America,2014,1.31,69.64,oil
+North America,2015,1.253,66.647,oil
+North America,2016,1.207,64.328,oil
+North America,1985,20.514,658.983,renewables
+North America,1986,20.741,672.888,renewables
+North America,1987,18.974,640.312,renewables
+North America,1988,17.187,607.179,renewables
+North America,1989,17.223,649.922,renewables
+North America,1990,17.807,682.174,renewables
+North America,1991,17.691,691.059,renewables
+North America,1992,17.088,672.451,renewables
+North America,1993,17.445,709.939,renewables
+North America,1994,16.592,689.829,renewables
+North America,1995,17.623,753.481,renewables
+North America,1996,18.579,815.905,renewables
+North America,1997,18.288,814.827,renewables
+North America,1998,16.569,761.97,renewables
+North America,1999,16.604,781.05,renewables
+North America,2000,15.452,750.93,renewables
+North America,2001,13.815,660.701,renewables
+North America,2002,14.851,731.728,renewables
+North America,2003,14.67,726.313,renewables
+North America,2004,14.433,731.114,renewables
+North America,2005,14.751,766.321,renewables
+North America,2006,15.168,788.593,renewables
+North America,2007,14.408,768.272,renewables
+North America,2008,15.466,818.845,renewables
+North America,2009,16.522,840.674,renewables
+North America,2010,16.061,847.493,renewables
+North America,2011,18.135,960.024,renewables
+North America,2012,18.082,948.15,renewables
+North America,2013,18.699,987.893,renewables
+North America,2014,19.052,1012.437,renewables
+North America,2015,19.397,1031.626,renewables
+North America,2016,20.837,1110.845,renewables
+South & Central America,1985,2.692,10.978,coal
+South & Central America,1986,2.717,11.927,coal
+South & Central America,1987,2.516,11.602,coal
+South & Central America,1988,2.653,12.827,coal
+South & Central America,1989,3.078,15.274,coal
+South & Central America,1990,3.061,15.566,coal
+South & Central America,1991,2.809,15,coal
+South & Central America,1992,2.464,13.571,coal
+South & Central America,1993,2.447,14.244,coal
+South & Central America,1994,2.57,15.705,coal
+South & Central America,1995,2.818,18.216,coal
+South & Central America,1996,2.887,19.596,coal
+South & Central America,1997,3.053,21.908,coal
+South & Central America,1998,3.053,22.86,coal
+South & Central America,1999,3.594,27.763,coal
+South & Central America,2000,3.239,26.196,coal
+South & Central America,2001,2.883,22.962,coal
+South & Central America,2002,2.801,23.002,coal
+South & Central America,2003,3.055,26.305,coal
+South & Central America,2004,3.387,30.547,coal
+South & Central America,2005,3.317,31.288,coal
+South & Central America,2006,3.679,36.364,coal
+South & Central America,2007,3.859,39.907,coal
+South & Central America,2008,3.792,40.631,coal
+South & Central America,2009,3.63,39.304,coal
+South & Central America,2010,3.885,44.303,coal
+South & Central America,2011,4.111,48.556,coal
+South & Central America,2012,4.622,56.921,coal
+South & Central America,2013,5.732,72.661,coal
+South & Central America,2014,5.83,75.057,coal
+South & Central America,2015,5.792,75.119,coal
+South & Central America,2016,5.95,77.747,coal
+South & Central America,1985,9.64,39.314,gas
+South & Central America,1986,9.367,41.12,gas
+South & Central America,1987,8.604,39.671,gas
+South & Central America,1988,10.13,48.973,gas
+South & Central America,1989,9.94,49.331,gas
+South & Central America,1990,9.235,46.966,gas
+South & Central America,1991,9.298,49.657,gas
+South & Central America,1992,9.128,50.266,gas
+South & Central America,1993,9.317,54.223,gas
+South & Central America,1994,8.906,54.435,gas
+South & Central America,1995,9.592,61.999,gas
+South & Central America,1996,9.962,67.624,gas
+South & Central America,1997,9.593,68.843,gas
+South & Central America,1998,10.257,76.817,gas
+South & Central America,1999,11.011,85.055,gas
+South & Central America,2000,11.962,96.735,gas
+South & Central America,2001,13.335,106.199,gas
+South & Central America,2002,12.834,105.405,gas
+South & Central America,2003,13.551,116.69,gas
+South & Central America,2004,14.854,133.968,gas
+South & Central America,2005,14.172,133.673,gas
+South & Central America,2006,13.317,131.618,gas
+South & Central America,2007,12.876,133.152,gas
+South & Central America,2008,14.058,150.646,gas
+South & Central America,2009,12.907,139.773,gas
+South & Central America,2010,15.521,177.006,gas
+South & Central America,2011,14.111,166.666,gas
+South & Central America,2012,16.573,204.084,gas
+South & Central America,2013,18.244,231.282,gas
+South & Central America,2014,19.258,247.936,gas
+South & Central America,2015,20.164,261.507,gas
+South & Central America,2016,19.247,251.484,gas
+South & Central America,1985,2.243,9.147,nuclear
+South & Central America,1986,1.334,5.855,nuclear
+South & Central America,1987,1.613,7.438,nuclear
+South & Central America,1988,1.325,6.406,nuclear
+South & Central America,1989,1.384,6.869,nuclear
+South & Central America,1990,1.872,9.518,nuclear
+South & Central America,1991,1.722,9.198,nuclear
+South & Central America,1992,1.605,8.84,nuclear
+South & Central America,1993,1.408,8.192,nuclear
+South & Central America,1994,1.356,8.29,nuclear
+South & Central America,1995,1.483,9.585,nuclear
+South & Central America,1996,1.456,9.886,nuclear
+South & Central America,1997,1.551,11.13,nuclear
+South & Central America,1998,1.431,10.718,nuclear
+South & Central America,1999,1.435,11.083,nuclear
+South & Central America,2000,1.511,12.223,nuclear
+South & Central America,2001,2.679,21.338,nuclear
+South & Central America,2002,2.393,19.657,nuclear
+South & Central America,2003,2.43,20.924,nuclear
+South & Central America,2004,2.16,19.48,nuclear
+South & Central America,2005,1.774,16.728,nuclear
+South & Central America,2006,2.173,21.475,nuclear
+South & Central America,2007,1.896,19.604,nuclear
+South & Central America,2008,1.993,21.363,nuclear
+South & Central America,2009,1.952,21.14,nuclear
+South & Central America,2010,1.906,21.733,nuclear
+South & Central America,2011,1.868,22.059,nuclear
+South & Central America,2012,1.822,22.44,nuclear
+South & Central America,2013,1.708,21.657,nuclear
+South & Central America,2014,1.623,20.892,nuclear
+South & Central America,2015,1.679,21.773,nuclear
+South & Central America,2016,1.848,24.149,nuclear
+South & Central America,1985,14.414,58.782,oil
+South & Central America,1986,15.445,67.798,oil
+South & Central America,1987,14.998,69.156,oil
+South & Central America,1988,14.218,68.736,oil
+South & Central America,1989,14.165,70.298,oil
+South & Central America,1990,13.158,66.917,oil
+South & Central America,1991,12.386,66.153,oil
+South & Central America,1992,13.484,74.254,oil
+South & Central America,1993,12.314,71.667,oil
+South & Central America,1994,11.963,73.114,oil
+South & Central America,1995,12.315,79.604,oil
+South & Central America,1996,12.254,83.179,oil
+South & Central America,1997,12.264,88.013,oil
+South & Central America,1998,13.195,98.818,oil
+South & Central America,1999,13.707,105.88,oil
+South & Central America,2000,12.696,102.673,oil
+South & Central America,2001,13.518,107.654,oil
+South & Central America,2002,13.039,107.088,oil
+South & Central America,2003,12.317,106.069,oil
+South & Central America,2004,11.882,107.161,oil
+South & Central America,2005,12.104,114.168,oil
+South & Central America,2006,12.26,121.17,oil
+South & Central America,2007,13.03,134.746,oil
+South & Central America,2008,13.389,143.484,oil
+South & Central America,2009,13.432,145.451,oil
+South & Central America,2010,11.997,136.813,oil
+South & Central America,2011,12.284,145.087,oil
+South & Central America,2012,12.37,152.33,oil
+South & Central America,2013,12.432,157.599,oil
+South & Central America,2014,12.354,159.05,oil
+South & Central America,2015,12.122,157.211,oil
+South & Central America,2016,10.703,139.852,oil
+South & Central America,1985,71.005,289.561,renewables
+South & Central America,1986,71.129,312.237,renewables
+South & Central America,1987,72.255,333.163,renewables
+South & Central America,1988,71.496,345.636,renewables
+South & Central America,1989,71.346,354.081,renewables
+South & Central America,1990,72.612,369.271,renewables
+South & Central America,1991,73.739,393.822,renewables
+South & Central America,1992,73.27,403.484,renewables
+South & Central America,1993,74.458,433.352,renewables
+South & Central America,1994,75.146,459.283,renewables
+South & Central America,1995,73.759,476.766,renewables
+South & Central America,1996,73.41,498.31,renewables
+South & Central America,1997,73.488,527.384,renewables
+South & Central America,1998,72.015,539.309,renewables
+South & Central America,1999,70.205,542.29,renewables
+South & Central America,2000,70.583,570.812,renewables
+South & Central America,2001,67.581,538.205,renewables
+South & Central America,2002,68.928,566.088,renewables
+South & Central America,2003,68.642,591.107,renewables
+South & Central America,2004,67.703,610.595,renewables
+South & Central America,2005,68.603,647.065,renewables
+South & Central America,2006,68.555,677.587,renewables
+South & Central America,2007,68.303,706.325,renewables
+South & Central America,2008,66.737,715.171,renewables
+South & Central America,2009,68.032,736.714,renewables
+South & Central America,2010,65.934,751.92,renewables
+South & Central America,2011,67.595,798.338,renewables
+South & Central America,2012,64.532,794.649,renewables
+South & Central America,2013,61.832,783.839,renewables
+South & Central America,2014,60.209,775.175,renewables
+South & Central America,2015,60.068,779.017,renewables
+South & Central America,2016,62.189,812.576,renewables
+World,1985,37.934,3747.634,coal
+World,1986,37.726,3838.27,coal
+World,1987,38.045,4057.283,coal
+World,1988,37.717,4199.198,coal
+World,1989,37.559,4377.118,coal
+World,1990,37.302,4460.397,coal
+World,1991,37.299,4557.359,coal
+World,1992,37.718,4650.556,coal
+World,1993,37.541,4727.105,coal
+World,1994,37.879,4892.752,coal
+World,1995,37.677,5039.42,coal
+World,1996,38.291,5279.991,coal
+World,1997,38.212,5395.739,coal
+World,1998,37.974,5507.309,coal
+World,1999,37.72,5626.914,coal
+World,2000,37.728,5575.449,coal
+World,2001,37.783,5680.707,coal
+World,2002,38.048,5919.096,coal
+World,2003,39.116,6293.426,coal
+World,2004,38.732,6530.983,coal
+World,2005,39.004,6829.21,coal
+World,2006,39.678,7241.922,coal
+World,2007,40.4,7734.073,coal
+World,2008,39.824,7742.601,coal
+World,2009,39.466,7647.303,coal
+World,2010,39.654,8240.26,coal
+World,2011,40.278,8660.378,coal
+World,2012,39.332,8632.016,coal
+World,2013,40.058,9029.284,coal
+World,2014,39.336,9028.559,coal
+World,2015,37.767,8805.063,coal
+World,2016,36.688,8777.799,coal
+World,1985,14.397,1422.361,gas
+World,1986,14.043,1428.758,gas
+World,1987,14.187,1512.935,gas
+World,1988,13.801,1536.549,gas
+World,1989,14.797,1724.386,gas
+World,1990,14.929,1785.086,gas
+World,1991,14.822,1811.07,gas
+World,1992,14.784,1822.876,gas
+World,1993,14.743,1856.381,gas
+World,1994,14.844,1917.401,gas
+World,1995,15.163,2028.077,gas
+World,1996,15.159,2090.276,gas
+World,1997,15.993,2258.306,gas
+World,1998,16.51,2394.399,gas
+World,1999,17.341,2586.885,gas
+World,2000,18.014,2662.157,gas
+World,2001,18.722,2814.8,gas
+World,2002,19.377,3014.523,gas
+World,2003,19.529,3141.98,gas
+World,2004,20.061,3382.723,gas
+World,2005,20.262,3547.627,gas
+World,2006,20.604,3760.551,gas
+World,2007,21.243,4066.667,gas
+World,2008,21.567,4193.065,gas
+World,2009,21.719,4208.548,gas
+World,2010,22.301,4634.235,gas
+World,2011,21.918,4712.769,gas
+World,2012,22.617,4963.669,gas
+World,2013,21.553,4858.204,gas
+World,2014,21.729,4987.205,gas
+World,2015,22.805,5316.752,gas
+World,2016,23.057,5516.398,gas
+World,1985,15.071,1488.922,nuclear
+World,1986,15.675,1594.736,nuclear
+World,1987,16.267,1734.733,nuclear
+World,1988,16.987,1891.249,nuclear
+World,1989,16.69,1945.011,nuclear
+World,1990,16.73,2000.462,nuclear
+World,1991,17.156,2096.175,nuclear
+World,1992,17.13,2112.089,nuclear
+World,1993,17.351,2184.826,nuclear
+World,1994,17.232,2225.844,nuclear
+World,1995,17.363,2322.396,nuclear
+World,1996,17.454,2406.801,nuclear
+World,1997,16.928,2390.277,nuclear
+World,1998,16.765,2431.38,nuclear
+World,1999,16.922,2524.361,nuclear
+World,2000,16.897,2497.065,nuclear
+World,2001,17.069,2566.265,nuclear
+World,2002,16.675,2594.152,nuclear
+World,2003,15.962,2568.062,nuclear
+World,2004,15.823,2668.129,nuclear
+World,2005,15.29,2677.217,nuclear
+World,2006,14.875,2714.879,nuclear
+World,2007,13.899,2660.732,nuclear
+World,2008,13.632,2650.26,nuclear
+World,2009,13.482,2612.307,nuclear
+World,2010,12.904,2681.477,nuclear
+World,2011,11.957,2570.885,nuclear
+World,2012,10.926,2397.98,nuclear
+World,2013,10.711,2414.361,nuclear
+World,2014,10.731,2462.99,nuclear
+World,2015,10.707,2496.121,nuclear
+World,2016,10.567,2528.234,nuclear
+World,1985,11.223,1108.761,oil
+World,1986,11.463,1166.249,oil
+World,1987,11.074,1181.022,oil
+World,1988,11.266,1254.288,oil
+World,1989,11.556,1346.722,oil
+World,1990,11.412,1364.578,oil
+World,1991,11.047,1349.785,oil
+World,1992,10.768,1327.673,oil
+World,1993,10.053,1265.84,oil
+World,1994,10.075,1301.392,oil
+World,1995,9.412,1258.853,oil
+World,1996,9.027,1244.689,oil
+World,1997,8.812,1244.306,oil
+World,1998,8.929,1294.885,oil
+World,1999,8.493,1266.92,oil
+World,2000,7.986,1180.099,oil
+World,2001,7.744,1164.284,oil
+World,2002,7.416,1153.73,oil
+World,2003,7.277,1170.729,oil
+World,2004,6.895,1162.56,oil
+World,2005,6.756,1182.892,oil
+World,2006,6.135,1119.681,oil
+World,2007,6.044,1156.987,oil
+World,2008,5.807,1129.028,oil
+World,2009,5.519,1069.412,oil
+World,2010,5.081,1055.834,oil
+World,2011,5.452,1172.288,oil
+World,2012,5.59,1226.726,oil
+World,2013,5.373,1211.103,oil
+World,2014,5.082,1166.525,oil
+World,2015,5.102,1189.518,oil
+World,2016,5.026,1202.601,oil
+World,1985,20.828,2057.643,renewables
+World,1986,20.565,2092.305,renewables
+World,1987,19.931,2125.555,renewables
+World,1988,19.7,2193.343,renewables
+World,1989,18.833,2194.831,renewables
+World,1990,19.067,2279.887,renewables
+World,1991,19.118,2335.985,renewables
+World,1992,19.021,2345.218,renewables
+World,1993,19.717,2482.781,renewables
+World,1994,19.394,2505.014,renewables
+World,1995,19.745,2640.898,renewables
+World,1996,19.443,2680.974,renewables
+World,1997,19.406,2740.197,renewables
+World,1998,19.117,2772.457,renewables
+World,1999,18.805,2805.202,renewables
+World,2000,19.375,2863.212,renewables
+World,2001,18.683,2809.014,renewables
+World,2002,18.484,2875.479,renewables
+World,2003,18.117,2914.878,renewables
+World,2004,18.489,3117.545,renewables
+World,2005,18.688,3272.091,renewables
+World,2006,18.709,3414.708,renewables
+World,2007,18.414,3525.057,renewables
+World,2008,19.169,3726.884,renewables
+World,2009,19.814,3839.374,renewables
+World,2010,20.061,4168.712,renewables
+World,2011,20.395,4385.3,renewables
+World,2012,21.536,4726.419,renewables
+World,2013,22.304,5027.388,renewables
+World,2014,23.122,5306.962,renewables
+World,2015,23.619,5506.484,renewables
+World,2016,24.662,5900.412,renewables
