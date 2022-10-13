@@ -1,0 +1,111 @@
+body *{
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+h1 {
+  font-weight: 900;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.page {
+  width: 1000px;
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+  padding-top: 35px;
+}
+
+.pure-g {
+  margin-bottom: 40px;
+  border-left-style: ridge;
+  border-right-style:ridge;
+}
+
+.text-top-left {
+  padding-right: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.text-top-right {
+  padding-left: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.donuts_words {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.title_block{
+  margin-bottom: 40px;
+  text-align: center;
+  border-style:double;
+}
+
+.country_title_block{
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border-style:ridge;
+
+}
+
+.map_bar_class{
+  border-top-style: ridge;
+  border-left-style: ridge;
+  border-right-style: ridge;
+}
+
+.country_map_description_class{
+  border-bottom-style: ridge;
+}
+
+.other_country_description_class{
+  border-bottom-style: ridge;
+}
+
+.time_title_block{
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border-style:ridge;
+}
+
+.time_content_block{
+  border-style:ridge;
+}
+
+.time_description{
+  text-align:right;
+}
+
+.gdp_title_block{
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border-style:ridge;
+}
+
+.gdp_content_block{
+  border-style:ridge;
+}
+
+.gdp_vis_block{
+  text-align:right
+}
+
+.gdp_description_class{
+  border-bottom-style:ridge;
+}
+
+.gdp_content_class{
+  border-bottom-style: ridge;
+}
