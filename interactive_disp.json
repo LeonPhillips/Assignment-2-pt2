@@ -29,7 +29,7 @@
       "bind": {
         "input": "range",
         "min": -250,
-        "max": 800,
+        "max": 600,
         "step": 1,
         "name": "Pan Horizontally: "
       }
@@ -44,16 +44,6 @@
         "step": 1,
         "name": "Pan Vertically: "
       }
-    },
-    {
-      "name": "rotate",
-      "value": [0, 0],
-      "bind": {
-        "input": "select",
-        "options": [[0, 0], [60, 0], [-34.8, 0], [-140.0188, 0], [-15.2551, 0]],
-        "labels": ["World Default", "America", "Africa", "Oceania", "Europe"],
-        "name": "Go to: "
-      }
     }
   ],
   "hconcat": [
@@ -63,12 +53,12 @@
       "title": {
         "text": "% Energy Consumed from 'Low Carbon' Sources",
         "align": "center",
-        "fontSize": 18
+        "fontSize": 20,
+        "font": "times new roman"
       },
       "projection": {
         "type": "equalEarth",
         "scale": {"expr": "zoom_level"},
-        "rotate": {"expr": "rotate"},
         "translate": {"expr": "[pan_hor,pan_ver]"}
       },
       "data": {
@@ -120,7 +110,7 @@
               "as": "geo"
             },
             {"filter": "datum.year == Year_selection"},
-            {"calculate":"datum.low_carbon_share_elec + '%'", "as":"share_perc_text"}
+            {"calculate":"substring(toString(datum.low_carbon_share_elec),0,4) + '%'", "as":"share_perc_text"}
           ],
           "mark": {"type": "geoshape", "stroke": "white"},
           "encoding": {
@@ -129,7 +119,7 @@
               "field": "low_carbon_share_elec",
               "title": "% Share - Low Carbon Sources",
               "type": "quantitative",
-              "scale": {"range": ["#e71010", "#ffff4c"]},
+              "scale": {"range": ["#e71010", "#ffff4c"],"domain":[0,100]},
               "legend": {
                 "direction": "horizontal",
                 "orient": "top",
@@ -154,11 +144,12 @@
         "url": "https://raw.githubusercontent.com/LeonPhillips/Assignment-2-pt2/main/worldEnergyconsum_stacked_bar_3.csv"
       },
       "height": 100,
-      "width": 247,
+      "width": 372,
       "title":{
         "text":"Different Energy Sources",
-        "fontSize":18,
-        "dy":-12
+        "fontSize":20,
+        "dy":-12,
+        "font":"times new roman"
       },
       "layer": [
         {
@@ -170,7 +161,7 @@
               "oneOf":["Africa","Asia Pacific","Europe","North America","South & Central America"]
             }
           },
-          {"calculate":"datum.percentage + '%'", "as":"share_perc_text"}
+          {"calculate":"substring(toString(datum.percentage),0,4) + '%'", "as":"share_perc_text"}
 
         
         ],
@@ -189,9 +180,10 @@
               "field": "type",
               "type": "nominal",
               "scale": {
-                "range": ["#AAAAAA","#A020F0","#B1f2ff","#e6e600","#1aff1a"]
+                "range": ["#8484AE","#564D4A","#EAB464","#F7AF9D","#439775"]
               },
-              "title": "Energy Type"
+              "title": "Energy Type",
+              "legend":null
             },
             "tooltip": [
               {"field": "type", "type": "nominal", "title": "Energy Type: "},
@@ -203,7 +195,7 @@
           }
         },
         {
-          "mark": {"type": "text", "fontSize": 10, "dy": 10, "fill": "black"},
+          "mark": {"type": "text", "fontSize": 10, "dy": 10, "fill": "white"},
           "transform": [
             {"filter": "datum.year == Year_selection"},
             {"filter": "datum.type == 'renewables'"},
@@ -212,7 +204,7 @@
               "oneOf":["Africa","Asia Pacific","Europe","North America","South & Central America"]
             }
           },
-          {"calculate":"datum.percentage + '%'", "as":"share_perc_text"}
+          {"calculate":"substring(toString(datum.percentage),0,4) + '%'", "as":"share_perc_text"}
 
           ],
           "encoding": {
@@ -238,10 +230,11 @@
       {
         "data":{"url":"https://raw.githubusercontent.com/LeonPhillips/Assignment-2-pt2/main/worldEnergyconsum_stacked_bar_3.csv"},
         "height":140,
-        "width":247,
+        "width":335,
         "title":{
           "text":"World Energy Sources",
-          "fontSize":18
+          "fontSize":20,
+          "font":"times new roman"
         },
         "layer":[
           {
@@ -253,7 +246,7 @@
                 "equal":"World"
                 }
               },
-              {"calculate":"datum.percentage + '%'", "as":"share_perc_text"}
+              {"calculate":"substring(toString(datum.percentage),0,4) + '%'", "as":"share_perc_text"}
             ],
             "encoding":{
               "theta":{
@@ -273,7 +266,7 @@
             }
           },
           {
-            "mark": {"type": "text", "radius":48,"fontSize": 10, "fill": "black"},
+            "mark": {"type": "text", "radius":48,"fontSize": 10, "fill": "white"},
             "transform": [
               {"filter": "datum.year == Year_selection"},
               {"filter":{
@@ -281,7 +274,7 @@
                 "equal":"World"
                 }
               },
-              {"calculate":"datum.percentage + '%'", "as":"share_perc_text"}
+              {"calculate":"substring(toString(datum.percentage),0,4) + '%'", "as":"share_perc_text"}
             ],
   
             
