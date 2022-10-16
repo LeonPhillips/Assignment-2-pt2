@@ -1,6 +1,6 @@
 var vg_1 = "interactive_disp.json";
 
-vegaEmbed("#map_bar",vg_1).then(function(result) {
+vegaEmbed("#map_bar",vg_1,{"actions":false}).then(function(result) {
 
 }).catch(console.error)
 
@@ -9,7 +9,7 @@ vegaEmbed("#map_bar",vg_1).then(function(result) {
 
 var vg_2 = "other_props.json";
 
-vegaEmbed("#other_props_id",vg_2).then(function(result) {
+vegaEmbed("#other_props_id",vg_2,{"actions":false}).then(function(result) {
 
 }).catch(console.error)
 
@@ -18,6 +18,6 @@ vegaEmbed("#other_props_id",vg_2).then(function(result) {
 
 var vg_3 = "time_comp.json";
 
-vegaEmbed("#time_comp_id",vg_3).then(function(result) {
+vegaEmbed("#time_comp_id",vg_3,{"actions":false}).then(function(result) {
 
 }).catch(console.error)
