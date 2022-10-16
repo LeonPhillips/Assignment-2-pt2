@@ -38,7 +38,7 @@
           "calculate":"datum[val_select]",
           "as": "chosen_vals"
         },
-        {"calculate": "datum.chosen_vals + ' [% or *100 TW-hr]'", "as":"tt_text"},
+        {"calculate": "substring(toString(datum.chosen_vals),0,4) + ' [% or *100 TW-hr]'", "as":"tt_text"},
         {"calculate": "datum.total*0.01","as":"total_trans"}
       ],
     "vconcat":[
@@ -82,7 +82,7 @@
                 },
                 "color": {
                   "field": "type",
-                  "scale": {"range": ["#AAAAAA","#A020F0","#B1f2ff","#e6e600","#1aff1a"]},
+                  "scale": {"range": ["#8484AE","#564D4A","#EAB464","#F7AF9D","#439775"]},
                   "legend": null
                 },
                 "tooltip":[
@@ -184,7 +184,7 @@
                     "field": "type", 
                     "type": "nominal", 
                     "scale":{
-                        "range":["#AAAAAA","#A020F0","#B1f2ff","#e6e600","#1aff1a"]
+                        "range":["#8484AE","#564D4A","#EAB464","#F7AF9D","#439775"]
                     }
                 },
                  "tooltip":[
