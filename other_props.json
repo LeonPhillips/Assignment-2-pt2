@@ -18,13 +18,14 @@
       "data":{"url":"https://raw.githubusercontent.com/LeonPhillips/Assignment-2-pt2/main/worldEnergyConsum_USA.csv"},
       "title":{
         "text":"Effect of GDP",
-        "fontSize":18
+        "fontSize":20,
+        "font":"times new roman"
       },
       "transform":[
         {"calculate":"datum.gdp*0.000001", "as": "gdp_tril"},
-            {"calculate":"'USD ' + datum.gdp*0.000001 + ' trillion'", "as":"gdp_text"},
-            {"calculate":"datum.low_carbon_share_elec + '%'", "as":"share_perc"},
-            {"calculate":"datum.electricity_generation + ' terrawatt-hours'", "as": "elec_gen_text"},
+            {"calculate":"'USD ' + substring(toString(datum.gdp*0.000000000001),0,4) + ' trillion'", "as":"gdp_text"},
+            {"calculate":"substring(toString(datum.low_carbon_share_elec),0,4) + '%'", "as":"share_perc"},
+            {"calculate":"substring(toString(datum.electricity_generation),0,4) + ' terrawatt-hours'", "as": "elec_gen_text"},
             {"filter": "datum.year == Year_selection"},
             {"filter":{
               "field":"country",
@@ -34,7 +35,7 @@
       ],
       "layer":[
         {
-          "mark":"point",
+          "mark":{"type":"point","size":100},
           "encoding":{
             "x":{
               "field":"gdp_tril",
@@ -239,7 +240,7 @@
         "encoding": {
           "y": {"field": "type", "type": "nominal","title":null,"axis":null},
           "x": {"field":"gdp_select4","title":null},
-          "color": {"aggregate": "mean", "field": "percentage", "scale": {"range": ["#e71010", "#ffff4c"]}, 
+          "color": {"aggregate": "mean", "field": "percentage", "scale": {"range": ["#00CC00","#99CCFF"],"domain":[0,100]}, 
         "legend":{
           "orient":"none", "legendX":150,"legendY":240,"title":"Energy Consumed (%)","width":10
         }},
